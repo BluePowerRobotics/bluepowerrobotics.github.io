@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PBLUER-Blogs-language_setting</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // 检测浏览器语言
+            const userLang = navigator.language || navigator.userLanguage;
+            
+            // 根据语言重定向
+            if (userLang.startsWith("zh")) {
+                window.location.href = "../zh/blogs/"; // 中文页面
+            } else {
+                window.location.href = "../en/blogs/"; // 英文页面
+            }
+        });
+    </script>
+</head>
+<body>
+    <p>Redirecting based on your browser language...</p>
+</body>
+</html>
