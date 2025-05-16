@@ -101,11 +101,15 @@ Android去哪了？tell me, baby, tell me, why?
 
 接电，开机——rev三个大字显示在屏幕上。
 
+![REV - Control Hub](../../res/blogs/20250511-howToRepairTheControlHubWiFi/ControlHub-REV.jpg)
+
 等待几秒，我们看到了Robot Controller app的真面目。（有兴趣的可以自己去看哟*^O^*）
 
 第一行提示写着：“network:unknown,disconnected”
 
 第二行经过一阵闪烁，显示：“waiting for network to become active.”
+
+![Robot Controller - Error](../../res/blogs/20250511-howToRepairTheControlHubWiFi/ControlHub-RobotController.jpg)
 
 过了几秒，软件闪退了。
 
@@ -114,6 +118,8 @@ Android去哪了？tell me, baby, tell me, why?
 “怪不得它这么烫啊⊙﹏⊙”学长感叹道。
 
 我于是使用ADB将Robot Controller app卸载了，给它接上了键盘。
+
+![Screen while operating on the keyboard](../../res/blogs/20250511-howToRepairTheControlHubWiFi/ControlHub-Screen.jpg)
 
 一顿操作后，我们看到设置里WiFi和蓝牙开关都变得灰暗——这要么是驱动损坏，要么是芯片坏了。（WiFi和蓝牙在同一个芯片上）
 
