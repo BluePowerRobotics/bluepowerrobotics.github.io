@@ -26,3 +26,7 @@
 ## Visit our blogs!
 
 - visit our blogs [here](./en/blogs/)
+
+## Our projects!
+
+- visit our projects [here](https://github.com/PBLUER19725/Team19725_INTO_THE_DEEP)

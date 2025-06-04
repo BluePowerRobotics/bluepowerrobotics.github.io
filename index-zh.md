@@ -24,3 +24,8 @@
 ## 博客
 
 - 访问我们的[博客](./zh/blogs/)
+
+## 项目
+
+- 访问我们的[项目](https://github.com/PBLUER19725/Team19725_INTO_THE_DEEP)
+
