@@ -30,3 +30,5 @@
 ## Our projects!
 
 - visit our projects [here](https://github.com/PBLUER19725/Team19725_INTO_THE_DEEP)
+
+- see the [game manual](./res/game_manual/FTC深海采样赛季竞赛手册V8.pdf) for the latest game manual.
